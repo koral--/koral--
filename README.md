@@ -8,8 +8,6 @@ A speaker at conferences and meetups such as DevFest, Flutter Global Summit, Mob
 
 Actively involved as a lead of Google Developers Group Wrocław, Flutter Wrocław, and Bitrise User Group.
 
-![Github trophies](https://github-profile-trophy.vercel.app/?username=koral--)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=koral--&count_private=true&show_icons=true)](https://github.com/koral--)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koral--&layout=compact&langs_count=8)](https://github.com/koral--)
 
