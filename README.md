@@ -10,5 +10,5 @@ Actively involved as a lead of Google Developers Group Wrocław, Flutter Wrocła
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karol-wrotniak/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wrotniakkarol@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/karol_wrotniak)
+[![Twitter](https://img.shields.io/badge/-X-black?style=flat&logo=X&logoColor=white)](https://x.com/karol_wrotniak)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@karol-wrotniak)
